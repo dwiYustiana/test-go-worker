@@ -9,6 +9,9 @@
 - please update config for set up DB and total worker to use default 10 worker
 - test-go-worker/config/config.json
 
+### Log Process
+- Log Process can see on terminal
+
 ### Database
 CREATE DATABASE test;
 
